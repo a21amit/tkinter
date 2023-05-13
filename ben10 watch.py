@@ -12,5 +12,5 @@ for i in range(60):
     t.speed(12);
     t.fd(a);
     t.rt(b);
-    t.lt(c)
+    t.lt(c);
     
